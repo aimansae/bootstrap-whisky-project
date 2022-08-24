@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.alert-container{}
+
+.callout-container{
+    height: 100vh;
+
+    background: url('../images/wiskey-background.jpg') no-repeat bottom right fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.quotes-container{}
+
+.features-container{}
+
